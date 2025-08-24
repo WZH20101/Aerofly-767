@@ -1,0 +1,1 @@
+This project consists of two files. One is the b767_300er that can be displayed in the game after being converted to AF4 format. The other is the blender project file, where you can create paint jobs or write tmd files to improve the aircraft together. We hope it can fly in Aerofly as soon as possible
